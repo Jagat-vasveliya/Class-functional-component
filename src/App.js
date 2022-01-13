@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <Example name="ParTner!" emoji="🤠"/>
+       <Example name="ParTner!" emoji="🤠" myName="Dell Inspiron 15 3000"/>
       </header>
     </div>
   );
